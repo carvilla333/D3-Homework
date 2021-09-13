@@ -1,4 +1,4 @@
-# D3-Homework
+# D3-Project
 
 
 This repository includes the required work for the core Assignment: D3 Dabbler
